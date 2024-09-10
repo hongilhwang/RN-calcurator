@@ -6,6 +6,4 @@
 npx react-native start
 ```
 
-# 실행 화면 
-![img.png](img.png)
 
