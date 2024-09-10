@@ -6,4 +6,5 @@
 npx react-native start
 ```
 
-
+# 실행 예시 
+![img.png](img.png)
